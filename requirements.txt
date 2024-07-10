@@ -1,0 +1,4 @@
+avro-python3
+requests
+confluent-kafka
+pandas

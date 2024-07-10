@@ -1,0 +1,7 @@
+{
+  "type": "record",
+  "name": "BitcoinKey",
+  "fields": [
+    {"name": "Date", "type": "string"}
+  ]
+}

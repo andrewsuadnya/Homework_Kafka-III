@@ -1,0 +1,13 @@
+{
+  "type": "record",
+  "name": "BitcoinPrice",
+  "fields": [
+    {"name": "Date", "type": "string"},
+    {"name": "Open", "type": "double"},
+    {"name": "High", "type": "double"},
+    {"name": "Low", "type": "double"},
+    {"name": "Close", "type": "double"},
+    {"name": "Volume", "type": "string"},
+    {"name": "MarketCap", "type": "string"}
+  ]
+}
